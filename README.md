@@ -75,4 +75,4 @@ To use Next-ChatGPT-API, follow these steps:
 
 # Contributing
 
-Contributions to this project are welcome. If you find a bug or have suggestions for improvements, please open an issue or submit a pull request. For more information, refer to the CONTRIBUTING.md file.
+Contributions to this project are welcome. If you find a bug or have suggestions for improvements, please open an issue or submit a pull request.
