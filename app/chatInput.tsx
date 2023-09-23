@@ -58,6 +58,7 @@ const ChatInput = ({ onSend, disabled }: InputProps) => {
         <button
           className="inline-flex items-center justify-center px-4 py-2 bg-blue-500 text-white rounded shadow hover:bg-blue-700"
           onClick={() => sentInput()}
+          disabled={input ? false : true}
         >
           <svg
             className="w-4 h-4"
