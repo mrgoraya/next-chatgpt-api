@@ -10,7 +10,6 @@ Welcome to Next-ChatGPT-API! This is a Next.js application that interacts with t
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
