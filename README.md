@@ -67,7 +67,7 @@ To use Next-ChatGPT-API, follow these steps:
 
 4. Open your web browser and navigate to http://localhost:3000.
 
-5. You will see the beautiful interface of Next-ChatGPT-API. Enter your text queries in the input field and click the "Send" button.
+5. You will see the beautiful interface of Next-ChatGPT-API. Enter your text queries in the input field and click the "Enter" button.
 
 6. The application will send the query to the ChatGPT API and display the response in a user-friendly manner.
 
